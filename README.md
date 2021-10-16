@@ -150,3 +150,13 @@ Se crean los grupos en donde agrupamos los dispositivos creados anteriormente.
 ![Rules](/Imagenes/FirewallRules.png)
 
 Se crean las reglas de firewall que pueden ser de bloqueo, acceso o restricción. En este caso se le Acepto que los grupos de it, admon y las redes green y blue tuvieran acceso a la red roja que es la red WAN quien da acceso al Internet. En el caso del grupo de celulares que esta como DROP no se le permitió el acceso a la red.
+
+## *Configuración del Servidor de Dominio o Active Directory*
+
+Se instalo el Windows server 2019 con las siguientes características:
+
+![Caracteristicas](/Imagenes/CaracteristicasPC.png)
+
+_Nombre del Dominio:_ *umg.local*
+
+_Dirección:_ *192.168.10*
