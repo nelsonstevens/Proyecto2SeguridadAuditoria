@@ -84,3 +84,27 @@ Es el encargado de crear los nombres de dominio para relacionar los nombres con 
 ![Redes](/Imagenes/REDES.png)
 
 Se crearon 3 Redes. La red verde con la dirección 192.168.10.1 es la Red LAN. La red roja con la dirección 192.168.1.200 es la red WAN que es la que esta conectada con el proveedor de internet. La red azul con la dirección 192.168.0.1 es la red de invitados encargada de proveer internet por medio de wifi a los dispositivos de los invitados.
+
+*Servicios Activos del Firewall:*
+
+![Activos](/Imagenes/ServiciosActivosFirewall.png)
+
+Nota: Se modifico el puerto SMTP el cual estaba en el puerto genérico 25, se cambió al puerto 587.
+
+*Host:*
+
+![Host](/Imagenes/Host.png)
+
+En esta pestaña se le agrega un nombre de referencia a los dispositivos según la ip.
+
+*Host Groups:*
+
+![Host Groups](/Imagenes/HostGroups.png)
+
+Se crean los grupos en donde agrupamos los dispositivos creados anteriormente.
+
+*Firewall Rules:*
+
+![Rules](/Imagenes/FirewallRules.png)
+
+Se crean las reglas de firewall que pueden ser de bloqueo, acceso o restricción. En este caso se le Acepto que los grupos de it, admon y las redes green y blue tuvieran acceso a la red roja que es la red WAN quien da acceso al Internet. En el caso del grupo de celulares que esta como DROP no se le permitió el acceso a la red.
