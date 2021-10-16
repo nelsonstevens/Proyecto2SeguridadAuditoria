@@ -50,3 +50,15 @@ Se utilizo Neth Server que dentro de nuestra infraestructura de red está hacien
 *Login Neth Server:*
 
 ![Login](/Imagenes/Login.png)
+
+*Dashboard:*
+
+![Dashboard](/Imagenes/Dashboard.png)
+
+*Nombre del Firewall:*
+
+![Nombre Firewall](/Imagenes/NombreFirewall.png)
+
+*Servicios Generales del Firewall:*
+
+![Dashboard](/Imagenes/ServiciosGeneralesF.png)
