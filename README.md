@@ -9,8 +9,7 @@
 
 ### <CENTER>*SEGURIDAD Y AUDITORIA DE SISTEMAS | 15/10/2021*</CENTER>
 ### <CENTER>*ING. MELVIN CALÍ*</CENTER>
-
-
+#
 # <a name="Active Directory"></a>Active Directory
 
 El proyecto consiste en la creacion de una red que cumpla por lo menos con el siguiente diagrama de red:
@@ -27,3 +26,8 @@ El proyecto consiste en la creacion de una red que cumpla por lo menos con el si
 Unix y BSD)
 6. Otros que considere necesarios
 
+#
+
+**DIAGRAMA DE INFRAESTRUCTURA**
+
+![Active Directory](/Imagenes/Diagrama.jpeg)
