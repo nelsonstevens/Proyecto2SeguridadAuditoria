@@ -4,7 +4,8 @@
 
 El proyecto consiste en la creacion de una red que cumpla por lo menos con el siguiente diagrama de red:
 
-![Active Directory](\Imagenes\ActiveDirectory.png)
+![Active Directory](Proyecto2SeguridadAuditoria/Imagenes/
+ActiveDirectory.png)
 
 ### 1. Red privada (Intranet)
 1. DNS
