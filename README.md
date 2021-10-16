@@ -10,7 +10,7 @@
 ### <CENTER>*SEGURIDAD Y AUDITORIA DE SISTEMAS | 15/10/2021*</CENTER>
 ### <CENTER>*ING. MELVIN CALÍ*</CENTER>
 #
-# <a name="Active Directory"></a>Active Directory
+# <a name="Requerimientos"></a>Descripción de Requerimiento
 
 El proyecto consiste en la creacion de una red que cumpla por lo menos con el siguiente diagrama de red:
 
@@ -25,6 +25,16 @@ El proyecto consiste en la creacion de una red que cumpla por lo menos con el si
 5. La red debe contar con al menos los siguientes sistemas operativos (Windows, Gnu/Linux, 
 Unix y BSD)
 6. Otros que considere necesarios
+
+Condiciones
+
+1. Debido a la metodología que se está llevando el semestre se debe implementar un servidor de 
+VPN (contratar un VPS para tener la IP pública), asi también un dominio (barato).
+2. Crear un servidor de directorio de activos (GPO, OU, etc.)
+3. Agregar activos al directorio de activos
+
+Los que se requiere es que a través de la VPN se pueda agregar una computadora y esta se reconozca 
+como parte del activo del a organización y un usuario del mimso pueda autenticarse.
 
 #
 
