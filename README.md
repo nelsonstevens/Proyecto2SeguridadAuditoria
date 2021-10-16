@@ -62,3 +62,25 @@ Se utilizo Neth Server que dentro de nuestra infraestructura de red está hacien
 *Servicios Generales del Firewall:*
 
 ![Dashboard](/Imagenes/ServiciosGeneralesF.png)
+
+*Servicios de Red:*
+
+![S. Red](/Imagenes/ServiciosdeRed.png)
+
+*DHCP:*
+
+![DHCP](/Imagenes/DHCP.png)
+
+El DHCP es el encargado de asignar las direcciones a los dispositivos que se conectan a la red. Recomendación dejar desactivada la función de DHCP por despacho de direcciones automáticas.
+
+*DNS:*
+
+![DNS](/Imagenes/DNS.png)
+
+Es el encargado de crear los nombres de dominio para relacionar los nombres con sus direcciones IP.
+
+*Redes:*
+
+![Redes](/Imagenes/REDES.png)
+
+Se crearon 3 Redes. La red verde con la dirección 192.168.10.1 es la Red LAN. La red roja con la dirección 192.168.1.200 es la red WAN que es la que esta conectada con el proveedor de internet. La red azul con la dirección 192.168.0.1 es la red de invitados encargada de proveer internet por medio de wifi a los dispositivos de los invitados.
