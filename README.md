@@ -184,3 +184,27 @@ Aquí se creo la zona de nombre umg.local (la zona del dominio)
 ![Zona de Busqueda Inversa](/Imagenes/ZonadeBusquedaInversa.png)
 
 Se le ingreso la IP y automáticamente el sistema genera la IP inversa, esto se hace como protocolo o estándar.
+
+### **Políticas Generales de los Usuarios (GPO)**
+
+Dentro las políticas GPO se tiene contemplado:
+* El bloqueo de los puertos USB
+* Ocultar el panel de control
+* Establecer el titulo de explorador de internet
+* Bloquear el ingreso al CMD
+* Bloqueo de instalación de programas sin tener un usuario administrador
+* Bloqueo de navegación a ciertas páginas
+* entre otros.
+
+### **Antivirus**
+
+Para la seguridad del antivirus se tiene contemplado el uso de una consola ESET
+
+![Antivirus](/Imagenes/Antivirus.jpg)
+
+### **Servidor de Actualizaciones WSUS**
+
+Se contempló utilizar Windows Server Update Services (también llamado WSUS), el cual provee actualizaciones de seguridad para los sistemas operativos Microsoft. Mediante Windows Server Update Services.
+
+![WSUS](/Imagenes/WSUS.png)
+
