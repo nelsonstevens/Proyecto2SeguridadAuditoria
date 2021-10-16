@@ -59,15 +59,18 @@ como parte del activo del a organización y un usuario del mimso pueda autentica
 *USUARIOS:*
 
 LAN
-* UMG-Sayan
-* UMG-Jitzon
-* UMG-Nelson
+* UMG-Sayan (IT)
+* UMG-Jitzon (ADMIN)
+* UMG-Nelson  (VENTAS)
 
 INVITADOS
 
 * UMG-Sayan2
 * UMG-Jitzon2
 * UMG-Nelson2
+* SAYAN-LINUX
+* CELULARJITZON
+* CELULARNELSON
 
 *SERVERS*
 
@@ -78,6 +81,8 @@ INVITADOS
 * IT
 * VENTAS
 * ADMON
+* LINUX
+* CELULARES
 
 *RANGOS DE IP:*
 
