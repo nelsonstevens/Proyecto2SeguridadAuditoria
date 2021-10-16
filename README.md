@@ -47,5 +47,6 @@ Unix y BSD)
 
 Se utilizo Neth Server que dentro de nuestra infraestructura de red está haciendo la función de firewall principal. Neth Server basado en Linux Centos el cual es de uso gratuito. El documento del proyecto no especifica el uso de un firewall, pero se añadió por motivos de seguridad.
 
-Login Neth Server:
+*Login Neth Server:*
+
 ![Login](/Imagenes/Login.png)
