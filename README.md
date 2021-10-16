@@ -219,3 +219,59 @@ Se contempló utilizar Windows Server Update Services (también llamado WSUS), e
 
 ![WSUS](/Imagenes/WSUS.png)
 
+### **PROCEDIMIENTO PARA AGREGAR UN NUEVO USARIO A LA RED LAN. (INTRANET) (DEPENDIENDO EL ROL QUE SE LE ASIGNE)**
+
+1.	Requisitos principales para poder pegarnos a la red de dominio.
+Tener una licencia de Windows por lo menos el pro, se intento conectarnos en un Windows home pero el resultado fue erróneo y que no trae definida esa opción. 
+
+![LICENCIA](/Imagenes/LICENCIAPC.png)
+
+2.	Hacemos el cambio de nombre del dispositivo para saber a quién pertenece el equipo en la opción de cambiar configuración. 
+
+![NAMEPC](/Imagenes/NAMEPC.png)
+
+* Una vez cambiado el nombre se debe de reiniciar la máquina. 
+
+3.	Entramos a la configuración para poder pegarnos al dominio. 
+
+![NAMEPC](/Imagenes/NAMEPC.png)
+
+* Seleccionamos la opción de dominio.
+
+4.	Colocar el nombre del dominio al que va a conectar. 
+
+* NOMBRE DE DOMINIO: _umg.local_
+
+![DOMINIO](/Imagenes/DOMINIO.png)
+
+* Ahora ingresamos las credenciales del usuario para conectarnos que son usuario: Administrador y contraseña: _Temporal01_
+
+![PASS](/Imagenes/DOMINIOPASS.png)
+
+* Al colocar todos los campos correctos nos da  la bienvenida al dominio.
+
+![ACCESS](/Imagenes/ACCESS.png)
+
+* Ahora guardamos todas las ventanas por que nos pide reiniciar la máquina.
+
+![REINICIO](/Imagenes/REINICIO.png)
+
+* Procedemos a hacer el reinicio. 
+
+![REINICIO ACCESS](/Imagenes/REINICIOACCESS.png)
+
+5. Inicio de usuario.
+
+![LOGIN USUARIO](/Imagenes/LOGINUSUARIO.png)
+
+![LOGIN USUARIO](/Imagenes/LOGINUSUARIO2.png)
+
+![LOGIN USUARIO](/Imagenes/LOGINUSUARIO3.png)
+
+* Aquí logramos entrar al usuario dentro del UMG-local
+
+![LOGIN USUARIO](/Imagenes/LOGINUSUARIO4.png)
+
+* Hacemos pruebas para ver la conexión con el servidor y este nos responde, hacemos ping a _umg.local_
+
+![LOGIN USUARIO](/Imagenes/LOGINUSUARIO5.png)
