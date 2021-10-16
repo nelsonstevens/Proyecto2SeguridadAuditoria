@@ -16,7 +16,7 @@ El proyecto consiste en la creacion de una red que cumpla por lo menos con el si
 
 ![Active Directory](/Imagenes/ActiveDirectory.png)
 
-### 1. Red privada (Intranet)
+*1. Red privada (Intranet)*
 1. DNS
 2. DHCP
 3. Servidor de base de datos instalada en Unix
