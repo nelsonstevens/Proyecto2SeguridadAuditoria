@@ -32,6 +32,48 @@ Unix y BSD)
 
 ![Diagrama de Infraestructura](/Imagenes/Diagrama.jpeg)
 
+#### DISTRIBUCION DE LAS DIRECCIONES IP.
+
+*FIREWALL:*  
+
+* WAN          192.168.1.200 
+* LAN          192.168.10.1
+* INVITADOS    192.168.0.1
+
+
+*SRV-DOMINIO (UMG-SRVDNSAD)*
+
+* LAN          192.168.10.254
+
+*USUARIOS:*
+
+LAN
+* UMG-Sayan
+* UMG-Jitzon
+* UMG-Nelson
+
+INVITADOS
+
+* UMG-Sayan2
+* UMG-Jitzon2
+* UMG-Nelson2
+
+*SERVERS*
+
+* FRW
+* AD
+
+*GRUPOS*                
+* IT
+* VENTAS
+* ADMON
+
+*RANGOS DE IP:*
+
+DHCP                 
+* LAN         192.168.10.100-150
+* INVITADOS   192.168.0.100-150
+
 **INFRAESTRUCTURA FÍSICA**
 
 ![Infraestructura Física](/Imagenes/Infraestructura.png)
