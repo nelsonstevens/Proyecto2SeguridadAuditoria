@@ -1,4 +1,3 @@
-# **PROYECTO II**
 # <center>**PROYECTO II**</center>
 ![Active Directory](/Imagenes/LOGO.png)
 1. Sayan Danery Aguirre Guzmàn   |     *7690-17-7987*
