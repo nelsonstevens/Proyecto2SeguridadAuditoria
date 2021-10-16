@@ -1,4 +1,5 @@
 # <center>**PROYECTO II**</center>
+
 ![Active Directory](/Imagenes/LOGO.png)
 1. Sayan Danery Aguirre Guzmàn   |     *7690-17-7987*
 
@@ -7,6 +8,7 @@
 3. Nelson Steven Cifuentes Chilin   |    *7690-17-2711*
 
 <CENTER>*SEGURIDAD Y AUDITORIA DE SISTEMAS | 15/10/2021*</CENTER>
+
 <CENTER>*ING. MELVIN CALÍ*</CENTER>
 
 # <a name="Active Directory"></a>Active Directory
