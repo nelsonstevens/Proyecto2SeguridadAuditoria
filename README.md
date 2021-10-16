@@ -34,12 +34,13 @@ Unix y BSD)
 
 #### DISTRIBUCION DE LAS DIRECCIONES IP.
 
-*FIREWALL:*  
+*PERIMETROS FIREWALL:*  
 
 * WAN          192.168.1.200 
 * LAN          192.168.10.1
 * INVITADOS    192.168.0.1
 
+-DMZ: no fue accesible colocarla por falta de recursos, por lo que nos basamos del lado de la LAN-
 
 *SRV-DOMINIO (UMG-SRVDNSAD)*
 
