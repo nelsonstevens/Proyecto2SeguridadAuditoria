@@ -157,6 +157,30 @@ Se instalo el Windows server 2019 con las siguientes características:
 
 ![Caracteristicas](/Imagenes/CaracteristicasPC.png)
 
-_Nombre del Dominio:_ *umg.local*
+* _Nombre del Dominio:_ **umg.local**
 
-_Dirección:_ *192.168.10*
+* _Dirección:_ **192.168.10**
+
+*Usuarios y equipos de Active Directory*
+
+![Usuarios y Equipos](/Imagenes/UsuariosEquipos.png)
+
+Se creo estructura simple en el dominio umg.local, con una unidad organizativa principal llamada UMG donde se despliegan los grupos organizativos Admon, IT, Ventas basados en los departamentos correspondientes. Dentro de cada grupo organizativo se crearon dos usuarios, como por ejemplo los que muestra la imagen Tecnico uno y Tecnico dos.
+
+*Administrador de DNS*
+
+![Admin DNS](/Imagenes/AdminDNS.png)
+
+El servidor de DNS al configurarse este ya posee una estructura definida en donde se desglosan la zona directa, zona inversa, puntos de confianza y reenviadores de condiciones.
+
+*Zona de Busqueda Directa*
+
+![Zona de Busqueda Directa](/Imagenes/ZonadeBusquedaDirecta.png)
+
+Aquí se creo la zona de nombre umg.local (la zona del dominio)
+
+*Zona de Busqueda Inversa*
+
+![Zona de Busqueda Inversa](/Imagenes/ZonadeBusquedaInversa.png)
+
+Se le ingreso la IP y automáticamente el sistema genera la IP inversa, esto se hace como protocolo o estándar.
